@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "experimentalDecorators": true,
+    "jsx": "react",
+    "jsxFactory": "h",
+    "target": "esnext",
+    "outDir": "dist",
+    "moduleResolution": "node"
+  },
+  "include": ["src/**/*"]
+}
